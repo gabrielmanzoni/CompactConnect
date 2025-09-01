@@ -8,7 +8,7 @@
   "dependencies": {
     "@aws-amplify/auth": "^6.5.1",
     "aws-amplify": "^6.6.4",
-    "dotenv": "^16.4.5"
+    "dotenv": "^16.6.1"
   },
   "devDependencies": {
     "chai": "^4.1.2",
