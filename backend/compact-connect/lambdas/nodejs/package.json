@@ -57,6 +57,6 @@
     "@usewaypoint/email-builder": "^0.0.6",
     "aws-lambda": "1.0.7",
     "nodemailer": "^6.9.12",
-    "zod": "^3.23.8"
+    "zod": "^3.25.76"
   }
 }
